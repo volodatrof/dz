@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting an array in memory 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolving collisions in hashing", "Resolving collisions in hashing\Resolving collisions in hashing.csproj", "{7FE6BBD7-0AE1-422F-A81D-49AD5320C34B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search in binary trees", "Search in binary trees\Search in binary trees.csproj", "{857BDCEF-EC0C-4037-AC46-E26E6A501F76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7FE6BBD7-0AE1-422F-A81D-49AD5320C34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FE6BBD7-0AE1-422F-A81D-49AD5320C34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FE6BBD7-0AE1-422F-A81D-49AD5320C34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857BDCEF-EC0C-4037-AC46-E26E6A501F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857BDCEF-EC0C-4037-AC46-E26E6A501F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857BDCEF-EC0C-4037-AC46-E26E6A501F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857BDCEF-EC0C-4037-AC46-E26E6A501F76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
